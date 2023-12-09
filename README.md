@@ -12,3 +12,4 @@ Educational purpose project for scraping commonfloor.com
 - Then run combining.py file for geting all the builder links under single file i.e Hyderabad_Builders_links_Database.xlsx.
 - Then run feature_scraping.py file for geting all the builder links under single file i.e hyderabad_builder_database_features.xlsx.
 - Then run property_listings_scraper.py file for geting all the builder links under single file i.e property_listings_hyderabad.xlsx.
+- Then run extraction.py file for getting the distinct amenities scraped to a new excel file by the name Distinct_Amenities.xlsx
